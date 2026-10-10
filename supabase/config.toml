@@ -1,0 +1,2 @@
+[functions.fakturownia-issue]
+verify_jwt = true
