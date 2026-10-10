@@ -5,7 +5,8 @@ Sidekick is an internal operations tool built to eliminate manual end-of-day cas
 It pairs OCR-assisted settlement receipt parsing (Gemini Vision) with an automated variance engine and inventory tracking, backed by Supabase (PostgreSQL).
 
 ---
-image.png
+![Sidekick Dashboard](docs/preview.png)
+
 ## The Operational Problem
 
 At the end of an operational shift, receptionists manually reconcile three independent sources:
